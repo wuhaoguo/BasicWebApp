@@ -10,7 +10,7 @@ public class QueryProcessor {
         }
         else if (query.toLowerCase().contains("name"))
         {
-            return "nihaoa";
+            return "MyTeam";
         }
         return "";
     }
