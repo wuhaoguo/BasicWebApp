@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: eyif3YceNzYdKksPZlWz6ck4O76OezcvOnu08lokQUz8LUwVjRtUchmS5jmZkkbBFtf+1ooPDmOD/F9CSY10V3kMkL4HvNNEpFZw6mBahV/I02s/5xU71aH/zskNRie+Ih1DGZHSWs5u6WDenJjNEZndXjvLZuURFCPAS+JSSaGP9l1hM4ndWrWcZNai4cShQix8Gi6AR8fUeSi7fCTjYJjuMCZDynrfiollgiWtdWgYpiq+CrD6Kwp8YHDs4orMTeAnYHu0ZbEpxTbF2IJYQFy5eIZ2LZQdYMIOeJvQ7jVJXfclK22rmmnWY6uQVwunUbfTQ72Wiz0hlXSneBRfIGKUHP7VqHFBvZIrFpVFJnEVL9aQR7UfJ5xLrtrgGtdukYoMD+ouJNMT7JCSq90AkzL9o89FRdGe3H1b+RKmPUBlE3yw+Azr4eHNbR5qkvoeVXSBUzcRW/aW+CiCHbjFrW5ZEW+VNHbil0SItYEW95ibfTnsjyz9a0EfU24PiafgzVXatQ38qVQh2nCJSJouMtZCq6EnivuFUWXqMoYvP/WvhX9lTEvymB2ixLCtSOBfPuv4P4Db+J0CgRxHd9Ehx8KdUbXQOyVWUzcr1yCEKVodaDc30CeE6fX7Cptmsg1SgeL2Tj7P9XQt+hklY22bX/eoZeHTQJuNQTHGTfp7HSc=
-  app: nihao
+  app: nihaoads
   on:
     repo: wuhaoguo/BasicWebApp
   skip_cleanup: 'true'
